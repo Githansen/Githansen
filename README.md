@@ -10,7 +10,6 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
 </li>
   <ul>
-
     <br>
     <br>
     <h3 align="center">Subjects</h3>
