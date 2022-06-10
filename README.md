@@ -14,5 +14,4 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ul> <br>
-  
-    <h1 align="center">Projects</h1>
+  <h1 align="center">Projects</h1>
