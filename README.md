@@ -8,8 +8,12 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                                                                                                 alt="adam pithewan" height="30" width="40" /></a></li>
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
-</li>
+  </li>
   <ul>
+    | Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
     <br>
     <br>
     <h3 align="center">Subjects</h3
