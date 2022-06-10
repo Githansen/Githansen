@@ -16,7 +16,6 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ol> <br>
-    <h4 text-align="left">Languages: </h4>
-
+  
 
 
