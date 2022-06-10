@@ -24,7 +24,7 @@
 </a>    
 <a href="https://github.com/Githansen/Githansen.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Githansen.vercel.app/api/pin/?username=anuraghazra&repo=Githansen.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Githansen.github.io&theme=material-palenight" />
 </a>
 
 
