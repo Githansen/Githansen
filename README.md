@@ -7,6 +7,6 @@
   <li><a href="https://www.linkedin.com/in/johan-hustoft-hansen-b42991228/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                                                                                                 alt="adam pithewan" height="30" width="40" /></a></li>
-  <li> <a href = "mailto:johan.h.hansen@hotmail.com"><img src="https://www.vecteezy.com/free-vector/email-icon"> </img></a>
+  <li> <a href = "mailto:johan.h.hansen@hotmail.com"><img src="https://sctechgroup.com/service/html-email/"> </img></a>
 </li>
   <ul>
