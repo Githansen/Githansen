@@ -12,7 +12,7 @@
   <ul>
     <h3 align="center">Subjects</h3
         | Code     | Subject |
-        | --- | --- |          
+        | :---: | :---: |          
         | DAPE1400 | Programming |     
         | DAFE1200 | Webdev and accessibility |    
         | DAFE1000 | Math 1000 |
