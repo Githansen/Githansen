@@ -14,6 +14,10 @@
     <br>
     <h3 align="center">Subjects</h3
       <br>
+      | First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
         | Code     | Subject |
         | -------- | ----------------------------- |          
         | DAPE1400 | Programming |     
