@@ -13,6 +13,7 @@
     <br>
     <br>
     <h3 align="center">Subjects</h3
+      <br>
         | Code     | Subject                       |
         | -------- | ----------------------------- |          
         | DAPE1400 | Programming                   |     
