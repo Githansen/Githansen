@@ -17,17 +17,4 @@
       | col 3 is      | some wordy text | $1600 |
       | col 2 is      | centered        |   $12 |
       | zebra stripes | are neat        |    $1 |
-        | Code     | Subject |
-        | :---: | :---: |          
-        | DAPE1400 | Programming |     
-        | DAFE1200 | Webdev and accessibility |    
-        | DAFE1000 | Math 1000 |
-        | DAFE2200 | System development |
-        | DAPE1300 | Discrete mathematics |
-        | DAPE2000 | Math 2000 with statistic |
-        | DAPE2101 | Physics and chemistry |
-        | DATA1500 | Databases |
-        | DATA1700 | Web programming |
-        | DATA2410 | Network and cloud services |    
-        | DATA2500 | Operating systems |
-        | DATS2300 | Algorithms and data structures |
+       
