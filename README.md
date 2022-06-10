@@ -10,7 +10,9 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ul>
-|  SF |  aSF |  afs | asf  |  afs |
-|---|---|---|---|---|
-| 2  |  2 |  2 | 2  |  2 |
+|  	|  	|  	|  	|  	|
+|---	|---	|---	|---	|---	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
 
