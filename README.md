@@ -11,6 +11,9 @@
 </li>
   <ul>
 
+    <br>
+    <br>
+    <h3 align="center">Subjects</h3>
     
         | Code    | Subject                       |
         | DAPE1400| Programming                   |     
