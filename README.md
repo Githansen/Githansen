@@ -11,6 +11,11 @@
   </li>
   <ul>
     <h3 align="center">Subjects</h3
+      | Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
         | Code     | Subject |
         | :---: | :---: |          
         | DAPE1400 | Programming |     
