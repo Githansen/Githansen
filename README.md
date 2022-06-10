@@ -15,3 +15,4 @@
   </li>
   <ul> <br>
   <h1 align="center">Projects</h1>
+    <h2 align="center">School</h2>
