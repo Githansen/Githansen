@@ -12,8 +12,7 @@
   <ul>
     <br>
     <br>
-    <h3 align="center">Subjects</h3>
-    
+    <h3 align="center">Subjects</h3
         | Code    | Subject                       |
         | DAPE1400| Programming                   |     
         | DAFE1200| Webdev and accessibility      |    
