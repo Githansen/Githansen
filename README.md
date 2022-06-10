@@ -11,6 +11,7 @@
   </li>
   <ul>
     <h3 align="center">Subjects</h3
+      
       | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
