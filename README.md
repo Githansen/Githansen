@@ -10,7 +10,6 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ul> <br>
-    <h4 text-align="left">Languages: </h4>
    
 <a href="https://github.com/Githansen/github-readme-stats">
   <img align="center" style="height: 150px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Githansen&layout=compact&theme=material-palenight" />
