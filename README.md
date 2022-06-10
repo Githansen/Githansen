@@ -10,12 +10,6 @@
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ul>
-    | Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
-    <br>
-    <br>
     <h3 align="center">Subjects</h3
         | Code     | Subject |
         | -------- | ----------------------------- |          
