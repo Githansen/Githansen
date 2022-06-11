@@ -45,12 +45,18 @@
       </ul>
       <h2 align="center">Passion projects</h2>
       <h3>Web</h3>
+      <h4>React</h4>
+      <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe</a></li>
+      <li><a href="">Weather, add later</a></li>
       <h4>.NET</h4>
+      <li><a href="">Will add later</a></li>
       <h4>Spring boot</h4>
+      <li><a href=""></a></li>
       <h3>Python</h3>
-      <h4>Math scripts</h4>
+      <ul>
+        <li><a href=""></a></li>
+      </ul>
       <h3>Java</h3>
-      <h4>Leetcode submissions</h4>
       <ul>
       <li><a href="">Leetcode submissions</a></li>
       </ul>
