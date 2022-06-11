@@ -58,12 +58,12 @@
       <ul>
       <li><a href=""></a></li>
       </ul>
-      <h4>Other</h4>
-      <h3>Python</h3>
+      <h3 align="center">Other</h3>
+      <h4>Python</h4>
       <ul>
         <li><a href="https://github.com/Githansen/DAFE1000PYScripts">Math scripts - numerical methods</a></li>
       </ul>
-      <h3>Java</h3>
+      <h4>Java</h4>
       <ul>
       <li><a href="">Leetcode submissions</a></li>
       </ul>
