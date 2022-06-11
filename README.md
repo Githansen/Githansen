@@ -27,7 +27,7 @@
         </li>
       </ul>  
       <h4 align="center">DATA1700 - Web programming</h4>
-      <h5>Javascript with Jquery, Java Spring Boot </h5>
+      <h5>Javascript with Jquery, Java Spring Boot for APIs </h5>
       <ul>
         <li><a href="https://github.com/Githansen/WebProg2021">Collection of homework tasks </a> </li>
         <li><a href="https://github.com/Githansen/Eksamenwebprog2021">Exam </a> </li>
