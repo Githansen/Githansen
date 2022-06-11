@@ -69,5 +69,5 @@
       </ul>
       <h4>Java</h4>
       <ul>
-      <li><a href="">Leetcode submissions</a></li>
+      <li><a href="https://github.com/Githansen/LeetcodeSubMissions">Leetcode submissions</a></li>
       </ul>
