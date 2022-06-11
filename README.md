@@ -39,8 +39,8 @@
       <h5>Algorithms and data structures with Java</h5>
       <ul>
         <li><a href="https://github.com/Githansen/Algoritmer_og_datastrukturer">Collection of commonly used algorithms and structures + homework</a></li>
-        <li><a href="https://github.com/Githansen/oblig-1-AlgDat/">Obligatory assignment 1</a></li>
-        <li><a href="https://github.com/Githansen/Oblig-2-AlgDat">Obligatory assignment 2</a></li>
+        <li><a href="https://github.com/Githansen/oblig-1-AlgDat/">Obligatory assignment 1 -> Privated. Please contact for access.</a></li>
+        <li><a href="https://github.com/Githansen/Oblig-2-AlgDat">Obligatory assignment 2 -> Privated. Please contact for access.</a></li>
         <li><a href="https://github.com/Githansen/oblig-3-AlgDat">Obligatory assignment 3</a></li>
       </ul>
       <h4 align="center"> DATA2410 - Computer networks and cloud services </h4>
