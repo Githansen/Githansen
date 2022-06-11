@@ -25,6 +25,8 @@
           <a href=""></a>
           <a href=""></a>
         </li>
-      </ul>    
+      </ul>  
+      <h4 align="center">Web programming</h4>
+      <h4 align="center">Algorithms and data structures </h4>
       <h2 align="center">Passion projects</h2>
    
