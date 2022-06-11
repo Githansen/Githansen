@@ -28,6 +28,11 @@
       </ul>  
       <h4 align="center">DATA1700 - Web programming</h4>
       <h5>Javascript with Jquery, Java Spring Boot </h5>
+      <ul>
+        <li><a href="https://github.com/Githansen/WebProg2021">Collection of homework tasks </a> </li>
+        <li> </li>
+        <li> </li>
+      </ul>
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
       <h2 align="center">Passion projects</h2>
    
