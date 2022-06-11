@@ -26,7 +26,8 @@
           <a href=""></a>
         </li>
       </ul>  
-      <h4 align="center">Web programming</h4>
-      <h4 align="center">Algorithms and data structures </h4>
+      <h4 align="center">DATA1700 - Web programming</h4>
+      <h5>Javascript with Jquery, Java Spring Boot </h5>
+      <h4 align="center">DATS2300 - Algorithms and data structures </h4>
       <h2 align="center">Passion projects</h2>
    
