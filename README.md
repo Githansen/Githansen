@@ -38,11 +38,19 @@
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
       <h5>Algorithms and data structures with Java</h5>
       <ul>
-        <li><a href="">Leetcode submissions</a></li>
         <li><a href="">Collection of homework tasks</a></li>
         <li><a href="">Obligatory assignment 1</a></li>
         <li><a href="">Obligatory assignment 2</a></li>
         <li><a href="">Obligatory assignment 3</a></li>
       </ul>
       <h2 align="center">Passion projects</h2>
-   
+      <h3>Web</h3>
+      <h4>.NET</h4>
+      <h4>Spring boot</h4>
+      <h3>Python</h3>
+      <h4>Math scripts</h4>
+      <h3>Java</h3>
+      <h4>Leetcode submissions</h4>
+      <ul>
+      <li><a href="">Leetcode submissions</a></li>
+      </ul>
