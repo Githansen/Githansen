@@ -39,7 +39,7 @@
       <h5>Algorithms and data structures with Java</h5>
       <ul>
         <li><a href="https://github.com/Githansen/Algoritmer_og_datastrukturer">Collection of commonly used algorithms and structures + homework</a></li>
-        <li><a href="">Obligatory assignment 1</a></li>
+        <li><a href="https://github.com/Githansen/oblig-1-AlgDat/">Obligatory assignment 1</a></li>
         <li><a href="">Obligatory assignment 2</a></li>
         <li><a href="">Obligatory assignment 3</a></li>
       </ul>
