@@ -38,7 +38,7 @@
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
       <h5>Algorithms and data structures with Java</h5>
       <ul>
-        <li><a href="https://github.com/Githansen/Algoritmer_og_datastrukturer">Collection of commonly used algorithmss</a></li>
+        <li><a href="https://github.com/Githansen/Algoritmer_og_datastrukturer">Collection of commonly used algorithms</a></li>
         <li><a href="">Obligatory assignment 1</a></li>
         <li><a href="">Obligatory assignment 2</a></li>
         <li><a href="">Obligatory assignment 3</a></li>
