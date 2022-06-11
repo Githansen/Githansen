@@ -49,7 +49,7 @@
       </ul>
       <h2 align="center">Passion projects</h2>
       <h3 align="center">Web</h3>
-      <h4>React</h4>
+      <h4>React (unfinished)</h4>
       <ul>
       <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe</a></li>
       <li><a href="">Weather, add later</a></li>
