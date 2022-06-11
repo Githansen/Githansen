@@ -36,6 +36,13 @@
         <li><a href="">Obligatory assignment 3 - add link later</a></li>
       </ul>
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
-      <h5></h5>
+      <h5>Algorithms and data structures with Java</h5>
+      <ul>
+        <li><a href="">Leetcode submissions</a></li>
+        <li><a href="">Collection of homework tasks</a></li>
+        <li><a href="">Obligatory assignment 1</a></li>
+        <li><a href="">Obligatory assignment 2</a></li>
+        <li><a href="">Obligatory assignment 3</a></li>
+      </ul>
       <h2 align="center">Passion projects</h2>
    
