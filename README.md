@@ -31,8 +31,8 @@
       <ul>
         <li><a href="https://github.com/Githansen/WebProg2021">Collection of homework tasks </a> </li>
         <li><a href="https://github.com/Githansen/Eksamenwebprog2021">Exam </a> </li>
-        <li><a href="https://github.com/Githansen/Oblig1webprog"> Obligatory assignment 1 </li>
-        <li><a href="">Obligatory assignment 2 - add link later</a></li>
+        <li><a href="https://github.com/Githansen/Oblig1webprog">Obligatory assignment 1 </a></li>
+        <li><a href="https://github.com/Githansen/oblig_2_Webprog">Obligatory assignment 2</a></li>
         <li><a href="">Obligatory assignment 3 - add link later</a></li>
       </ul>
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
