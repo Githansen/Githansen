@@ -33,7 +33,7 @@
         <li><a href="https://github.com/Githansen/Eksamenwebprog2021">Exam </a> </li>
         <li><a href="https://github.com/Githansen/Oblig1webprog">Obligatory assignment 1 </a></li>
         <li><a href="https://github.com/Githansen/oblig_2_Webprog">Obligatory assignment 2</a></li>
-        <li><a href="">Obligatory assignment 3 - add link later</a></li>
+        <li><a href="https://github.com/Githansen/oblig3_Webprog">Obligatory assignment 3</a></li>
       </ul>
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
       <h5>Algorithms and data structures with Java</h5>
