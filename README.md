@@ -17,7 +17,7 @@
   <h1 align="center">Projects</h1>
     <h2 align="center">School</h2>
     <h3 align="center">Subject<h3>
-      <h4 align="center">DAPE1400- Programming</h4>
+      <h3 >DAPE1400- Programming</h3>
       <h5>Introductory course - Java programming</h5>
       <ul>
         <li>
