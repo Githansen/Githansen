@@ -43,6 +43,11 @@
         <li><a href="">Obligatory assignment 2</a></li>
         <li><a href="">Obligatory assignment 3</a></li>
       </ul>
+      <h4 align="center"> DATA2410 - Computer networks and cloud services </h4>
+      <ul>
+        <li><a href="https://github.com/Githansen/SocketBot">Chatbot</a></li>
+      </ul>
+      
       <h2 align="center">Passion projects</h2>
       <h3 align="center">Web</h3>
       <h4>React</h4>
