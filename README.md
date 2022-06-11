@@ -25,4 +25,6 @@
           <a href=""></a>
           <a href=""></a>
         </li>
-      </ul>
+      </ul>    
+      <h2 align="center">Passion projects</h2>
+   
