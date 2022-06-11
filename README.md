@@ -30,9 +30,12 @@
       <h5>Javascript with Jquery, Java Spring Boot </h5>
       <ul>
         <li><a href="https://github.com/Githansen/WebProg2021">Collection of homework tasks </a> </li>
-        <li> </li>
-        <li> </li>
+        <li><a href="https://github.com/Githansen/Eksamenwebprog2021">Exam </a> </li>
+        <li><a href="https://github.com/Githansen/Oblig1webprog"> Obligatory assignment 1 </li>
+        <li><a href="">Obligatory assignment 2 - add link later</a></li>
+        <li><a href="">Obligatory assignment 3 - add link later</a></li>
       </ul>
       <h4 align="center">DATS2300 - Algorithms and data structures </h4>
+      <h5></h5>
       <h2 align="center">Passion projects</h2>
    
