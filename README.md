@@ -46,12 +46,18 @@
       <h2 align="center">Passion projects</h2>
       <h3 align="center">Web</h3>
       <h4>React</h4>
+      <ul>
       <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe</a></li>
       <li><a href="">Weather, add later</a></li>
+      </ul>
       <h4>.NET</h4>
+      <ul>
       <li><a href="">Will add later</a></li>
+      </ul>
       <h4>Spring boot</h4>
+      <ul>
       <li><a href=""></a></li>
+      </ul>
       <h3>Python</h3>
       <ul>
         <li><a href="https://github.com/Githansen/DAFE1000PYScripts">Math scripts - numerical methods</a></li>
