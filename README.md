@@ -22,7 +22,7 @@
       <ul>
         <li>
           <a href="https://github.com/Githansen/Parkeringshus">Parkeringshus</a>
-          <a href=""></a>
+          <a href="https://github.com/Githansen/ObligatoriesDAPE1400">Obligatory assignments </a>
           <a href=""></a>
         </li>
       </ul>  
