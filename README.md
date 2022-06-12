@@ -22,9 +22,11 @@
       <ul>
         <li>
           <a href="https://github.com/Githansen/Parkeringshus">Parkeringshus</a>
+          </li>
+        <li>
           <a href="https://github.com/Githansen/ObligatoriesDAPE1400">Obligatory assignments </a>
-          <a href=""></a>
         </li>
+        <li><a href=""></a></li>
       </ul>  
       <h4 align="center">DATA1700 - Web programming</h4>
       <h5>Javascript with Jquery, Java Spring Boot for APIs </h5>
