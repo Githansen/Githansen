@@ -53,7 +53,7 @@
       <h3 align="center">Web</h3>
       <h4>React</h4>
       <ul>
-      <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe  (unfinished)</a></li>
+      <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe  (First react-project)</a></li>
       <li><a href="">Weather, add later</a></li>
       </ul>
       <h4>.NET</h4>
