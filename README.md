@@ -17,6 +17,12 @@
   <h1 align="center">Projects</h1>
     <h2 align="center">School</h2>
     <h3 align="center">Subject<h3>
+      <h4 align="center">DAPE1200 - Web development and inclusive design</h4>
+      <h5>Introductory course, pure HTML and CSS - no JS</h5>
+      <ul>
+        <li><a href="https://github.com/githansen/CSSGrid">Grid visualization</a></li>
+        <li></li>
+      </ul>
       <h4 align="center">DAPE1400- Programming</h4>
       <h5>Introductory course - Java programming</h5>
       <ul>
