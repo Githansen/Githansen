@@ -60,7 +60,7 @@
       <h4>React</h4>
       <ul>
       <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe  (First react-project)</a></li>
-      <li><a href="">Weather forecast, add later</a></li>
+      <li><a href="https://github.com/githansen/Weather">Weather forecast, unfinished</a></li>
       </ul>
       <h4>.NET</h4>
       <ul>
