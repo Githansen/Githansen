@@ -61,6 +61,7 @@
       <ul>
       <li><a href="https://github.com/Githansen/bondesjakk">Tic Tac Toe  (First react-project)</a></li>
       <li><a href="https://github.com/githansen/Weather">Weather forecast, unfinished</a></li>
+      <li><a href="https://github.com/githansen/steinsakspapir">Rock, paper scissors </a></li>
       </ul>
       <h4>.NET</h4>
       <ul>
