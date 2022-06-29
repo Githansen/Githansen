@@ -55,7 +55,7 @@
       <ul>
         <li><a href="https://github.com/Githansen/SocketBot">Chatbot</a></li>
       </ul>
-      <h2 align="center">Passion projects</h2>
+      <h2 align="center">Hobby projects</h2>
       <h3 align="center">Web</h3>
       <h4>React</h4>
       <ul>
