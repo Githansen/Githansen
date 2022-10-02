@@ -10,7 +10,7 @@
    
 <h4> Reach me on:  </h4>
   <ul>
-  <li><a href="https://www.linkedin.com/in/johan-hustoft-hansen-b42991228/" target="blank">Linkedin</a></li>
+ 
   <li> <a href = "mailto:johan.h.hansen@hotmail.com">Email</a>
   </li>
   <ul> <br>
