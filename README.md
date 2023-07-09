@@ -24,6 +24,6 @@
   - <a href="https://github.com/githansen/Oblig1_Sol"> Løsningsforslag til obligatorisk oppgave (studass 2023) </a> </br> </br>
   - <a href="https://github.com/githansen/Portfolio_2_Sol"> Løsningsforslag til mappeeksamen (studass 2023) </a> </br> </br>
 <h5>Webapplikasjoner</h5>
-  - <a href="https://github.com/githansen/memorygame">Intro til React - Memory</a>
-  - <a href="https://github.com/githansen/steinsakspapir">Intro til React - stein, saks papir</a>
+  - <a href="https://github.com/githansen/memorygame">Intro til React - Memory</a> </br> </br>
+  - <a href="https://github.com/githansen/steinsakspapir">Intro til React - stein, saks papir</a> </br></br>
   - <a href=""></a>
