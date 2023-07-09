@@ -15,3 +15,15 @@
 
 <h2>Projects:</h2>
 <h3>School:</h3>
+<h4>Subject:</h4>
+<h5>Bachelor's thesis:</h5>
+<a href="">WILL ADD SOON</a>
+<h5>Computer networks and cloud services</h5>
+<ul>
+  <li>
+      
+  </li>
+  <li>
+    
+  </li>
+</ul>
