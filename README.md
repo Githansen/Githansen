@@ -14,7 +14,7 @@
   <ul> <br>
 
 <h2>Projects:</h2>
-<h3>School:</h3>
+<h3>School</h3>
 <h4>Subject:</h4>
 <h5>Bachelor's thesis:</h5>
 <a href="">WILL ADD SOON</a>
