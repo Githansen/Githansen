@@ -13,3 +13,5 @@
   <li><a href="https://www.linkedin.com/in/johan-hustoft-hansen/">Linkedin </a></li>
   <ul> <br>
 
+<h2>Projects:</h2>
+<h3>School:</h3>
