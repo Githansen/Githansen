@@ -19,11 +19,7 @@
 <h5>Bachelor's thesis:</h5>
   - <a href="">WILL ADD SOON</a>
 <h5>Computer networks and cloud services</h5>
-<ul>
-  <li>
-      
-  </li>
-  <li>
-    
-  </li>
-</ul>
+  - <a href="https://github.com/githansen/SocketBot">Chatbot - portfoilio exam 2022</a> 
+  - <a href="https://github.com/githansen/DATA2410-2023">Intro to socket programming (TA 2023) </a>
+  - <a href="https://github.com/githansen/Oblig1_Sol"> Solution to obligatory assignment (TA 2023) </a>
+  - <a href="https://github.com/githansen/Portfolio_2_Sol"> Solution to Portfolio Exam (TA 2023) </a>
