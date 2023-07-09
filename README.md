@@ -26,7 +26,7 @@
 <h5>Webapplikasjoner</h5>
   - <a href="https://github.com/githansen/memorygame">Intro til React - Memory</a> </br> </br>
   - <a href="https://github.com/githansen/steinsakspapir">Intro til React - stein, saks papir</a> </br></br>
-  - <a href=""></a> </br></br>
+  - <a href=""> DiagnoseApp (legg til senere) </a> </br></br>
 <h5>Algoritmer og Datastrukturer</h5>
   - <a href="https://github.com/githansen/DATS2300"> Ukesoppgaver, innleveringer m.m </a> </br> </br> 
   - <a href="https://github.com/githansen/LeetcodeSubMissions"> Leetcode submissions (eksamensøving) </a> </br> </br>
