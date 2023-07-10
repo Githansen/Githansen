@@ -19,7 +19,7 @@
 <h5>Bacheloroppgave:</h5>
   - <a href="https://github.com/githansen/bachelor_frontend">Frontend</a> </br> </br>
   - <a href="https://github.com/githansen/Bachelor_backend">Backend</a>  </br> </br
-<h5>Datanettverk og skytjenester:</h5>
+<h5>Datanettverk og skytjenester:</h5> </br>
   - <a href="https://github.com/githansen/SocketBot">Chatbot - Mappeeksamen 2022</a> </br> </br>
   - <a href="https://github.com/githansen/DATA2410-2023">Intro til socketprogrammering (studass 2023) </a> </br> </br>
   - <a href="https://github.com/githansen/Oblig1_Sol"> Løsningsforslag til obligatorisk oppgave (studass 2023) </a> </br> </br>
