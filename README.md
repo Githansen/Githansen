@@ -17,7 +17,8 @@
 <h3>Skole</h3>
 <h4>Fag</h4>
 <h5>Bacheloroppgave:</h5>
-  - <a href="">Venter på samtykke, legger til snart</a>
+  - <a href="https://github.com/githansen/bachelor_frontend">Frontend</a>
+  - <a href="https://github.com/githansen/Bachelor_backend">Backend</a>
 <h5>Datanettverk og skytjenester:</h5>
   - <a href="https://github.com/githansen/SocketBot">Chatbot - Mappeeksamen 2022</a> </br> </br>
   - <a href="https://github.com/githansen/DATA2410-2023">Intro til socketprogrammering (studass 2023) </a> </br> </br>
