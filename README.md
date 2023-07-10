@@ -7,7 +7,7 @@
   <img align="center" style="height: 150px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Githansen&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </a>
    
-<h4> Kontact:  </h4>
+<h4> Kontakt:  </h4>
   <ul>
   <li> <a href = "mailto:johan.hanzen@gmail.com">Email</a></li>
   <li><a href="https://www.linkedin.com/in/johan-hustoft-hansen/">Linkedin </a></li>
@@ -31,3 +31,8 @@
 <h5>Algoritmer og Datastrukturer</h5>
   - <a href="https://github.com/githansen/DATS2300"> Ukesoppgaver, innleveringer m.m </a> </br> </br> 
   - <a href="https://github.com/githansen/LeetcodeSubMissions"> Leetcode submissions (eksamensøving) </a> </br> </br>
+<h5>Webprogrammering</h5>
+  - <a href="https://github.com/githansen/Oblig1webprog">Oblig 1</a></br></br> 
+  - <a href="https://github.com/githansen/oblig_2_Webprog">Oblig 2</a></br> </br> 
+  - <a href="https://github.com/githansen/oblig3_Webprog">Oblig 3</a></br> </br> 
+  - <a href="https://github.com/githansen/Eksamenwebprog2021">Eksamen</a> </br> </br> 
