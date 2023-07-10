@@ -17,7 +17,7 @@
 <h3>Skole</h3>
 <h4>Fag</h4>
 <h5>Bacheloroppgave:</h5>
-  - <a href="https://github.com/githansen/bachelor_frontend">Frontend</a> </br> </br
+  - <a href="https://github.com/githansen/bachelor_frontend">Frontend</a> </br> </br>
   - <a href="https://github.com/githansen/Bachelor_backend">Backend</a>  </br> </br
 <h5>Datanettverk og skytjenester:</h5>
   - <a href="https://github.com/githansen/SocketBot">Chatbot - Mappeeksamen 2022</a> </br> </br>
